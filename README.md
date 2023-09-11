@@ -1,2 +1,2 @@
 # iOS
-Hier werden Apps für iOS-Geräte, wie iPhone und iPads, vorgestellt.
+Hier sind Apps mit Quellcode für iOS-Geräte, wie iPhone und iPads, vorgestellt.
